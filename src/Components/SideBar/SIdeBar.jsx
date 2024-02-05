@@ -121,7 +121,7 @@ const MyProSidebar = () => {
 
                             <Item
                                 title="All categories"
-                                to="/category"
+                                to="/categories"
                                 selected={selected}
                                 setSelected={setSelected}
                             />
