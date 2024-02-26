@@ -22,3 +22,6 @@
 .table_text{
     font-weight: 600;
 }
+.TableRow:hover{
+    background-color: #00B087;
+}
